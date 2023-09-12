@@ -16,7 +16,7 @@ def liters_to_gallons(liters):
 def gallons_to_liters(gallons):
     return gallons / 0.264172
 
-# Test the functions.
+# Test the functions
 cm = 100
 inch = 10
 meters = 5
