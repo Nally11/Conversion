@@ -24,7 +24,7 @@ def convert_usd_to_gbp(amount, api_key):
         print("Failed to fetch data from ExchangeRatesAPI")
         return None
 
-# Test the function
+# Test the function.
 usd_amount = 100
 exchangerates_api_key = "9f8f5ea0efff453eb2ad44941febd314"
 
