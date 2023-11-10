@@ -39,8 +39,8 @@ if response.status_code == 200:
         gbp_amount = amount * gbp_rate
         return gbp_amount
     else:
-        print("GBP rate not found in response")
-        return None
+       print("GBP rate not found in response")
+       return None
 else:
     print("Failed to fetch data from Fixer.io")
     return None
