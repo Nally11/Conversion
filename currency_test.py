@@ -41,6 +41,6 @@ if response.status_code == 200:
     else:
        print("GBP rate not found in response")
        return None
-else:
-    print("Failed to fetch data from Fixer.io")
-    return None
+    #else:
+   #     print("Failed to fetch data from Fixer.io")
+     #   return None
