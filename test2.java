@@ -1,4 +1,4 @@
-//using kotlin language run using *javac test2.java*
+//using kotlin language run using *javac test2.java*.
 
 import android.os.Bundle
 import android.widget.Button
